@@ -173,7 +173,7 @@ img {
 .m {
   gap: 120px;
   display: flex;
-  margin-bottom: 250px;
+  margin-bottom: 216px;
 }
 
 .mein p {
@@ -207,10 +207,10 @@ img {
   position: relative;
 }
 .left img {
-position: absolute;
-left: 0;
-top: 140px;
-}
+  position: absolute;
+  left: 0;
+  top: 140px;
+  }
 .main{
   background: #012F34;
   color: #ffffff;
@@ -236,3 +236,4 @@ top: 140px;
   line-height: 28px;
   color: #F67E7E;
 }
+
